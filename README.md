@@ -1,9 +1,9 @@
 # Final-Project-G24
 Big Ideas Final Project (Group 24)
 
-Abdulrafay Syed - abs199@pitt.edu
+Abdulrafay Syed - abs199@pitt.edu - (911 dipatches notebook)
 
-Ryan Liang - ryl50@pitt.edu
+Ryan Liang - ryl50@pitt.edu - (arrests and illegal dumps notebook)
 
 Our project was determining the best neighborhood to commit a murder in.  We used the metrics "Most Illegal Dump Sites", "Most 911 Dispatches", and "Most Arrests" to determine which neighborhood is the best for committing a murder in.  
 
